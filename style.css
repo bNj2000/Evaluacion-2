@@ -180,6 +180,7 @@ div.pie{
   
   th, td{
     padding: center;
+    border:1px solid black;
   }
   
   thead{
